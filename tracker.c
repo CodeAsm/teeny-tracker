@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <termios.h>
 #include <fcntl.h>
-#include "libxmp-4.6.2/include/xmp.h"
+#include "libxmp/include/xmp.h"
 
 #define SAMPLE_RATE 44100
 #define CHANNELS 2  // Stereo output
